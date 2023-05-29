@@ -4,7 +4,6 @@ Pedro Soldera dos Santos - RA: 8135417
 08/03/2023
 
 EXERCICIO 2
-
 Faca um programa que leia um vetor de 8 posicoes e, em seguida, leia tambem dois
 valores X e Y quaisquer correspondentes a duas posicoes no vetor. Ao final seu
 programa dever� escrever a soma dos valores encontrados nas respectivas posicoes
